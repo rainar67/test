@@ -3,10 +3,9 @@
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello "
+        System.out.println("Helllo "
         );
-        int  x=5;
-        int[] array={1,2,3,4};
+
     }
 
 }
